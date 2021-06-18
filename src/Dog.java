@@ -6,4 +6,8 @@ public class Dog {
         this.color = color;
         this.age = age;
     }
+
+    public void barking() {
+        System.out.println("Woof");
+    }
 }
