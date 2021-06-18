@@ -7,6 +7,10 @@ public class Dog {
         this.age = age;
     }
 
+    public void barking() {
+        System.out.println("Woof");
+    }
+
     public void sleeping() {
         System.out.println("The Dog is sleeping");
     }
